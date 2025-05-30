@@ -19,15 +19,20 @@
 
 ## 📈 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-Cyber-Security&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Cyber-Security&layout=compact&theme=tokyonight" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Davi-Cyber-Security&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
 
 ---
 
 ## 🌱 Sobre mim
 
-- 🔭 Atualmente focado em projetos e estudos acadêmicos
+- 🔭 Atualmente focado em projetos e estudos acadêmicos  
 - 🧩 Curioso por tecnologia e inovação  
-- 📚 Aprendendo lógica de programação, estruturas de dados e desenvolvimento web
+- 📚 Aprendendo lógica de programação, estruturas de dados e desenvolvimento web  
 - 🛠️ Praticando estrutura de dados, algoritmos e desenvolvimento web  
 - 🤝 Aberto a colaborações e projetos simples para praticar  
 - 💬 Gosto de tecnologia, jogos, e tudo que envolve código!
