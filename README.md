@@ -1,4 +1,4 @@
-# 👋 Hello World! Eu sou Davi
+# 👋 Hello World! My name is Davi
 
 🎓 Estudante de **Engenharia de Software**  
 💡 Explorando o mundo da programação e desenvolvimento de sistemas  
