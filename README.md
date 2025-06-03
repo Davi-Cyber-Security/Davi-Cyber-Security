@@ -24,7 +24,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-Cyber-Security&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Cyber-Security&layout=compact&theme=tokyonight" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=Davi-Cyber-Security&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=Davi-Cyber-Security&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHubStreak"/>
 </div>
 
 ---
