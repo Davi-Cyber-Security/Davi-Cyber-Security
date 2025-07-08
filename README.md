@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Engenharia de Software**  
 💡 Explorando o mundo da programação e desenvolvimento de sistemas  
-🚀 Atualmente estudando e praticando: **HTML**, **CSS**, **JavaScript** e **C**
+🚀 Atualmente estudando e praticando: **HTML**, **CSS**, **JavaScript** **React** e **C**
 
 ---
 
